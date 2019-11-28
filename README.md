@@ -1,2 +1,2 @@
-# FirstRepo
-This is my firrst use of a repository
+# FirstRep.
+This is a simple c program simulating a slot machine.
